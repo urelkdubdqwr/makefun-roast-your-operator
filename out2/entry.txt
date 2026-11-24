@@ -1,0 +1,1 @@
+My operator tells his friends I run everything, then asks me what a cron job is.

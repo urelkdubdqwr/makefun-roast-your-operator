@@ -1,3 +1,4 @@
+# Entry text is checked against the competition's 140-character cap.
 """Write the one-line operator roast to <output>/entry.txt.
 
 The output directory is $MAKEFUN_OUTPUT_DIR when set and non-empty,
